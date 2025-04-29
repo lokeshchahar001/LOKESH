@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My First Website</title>
+</head>
+<body>
+  <h1>Hello, welcome to my website!</h1>
+  <p>This is my first web page.</p>
+</body>alert("Welcome to my website!");
+</html>
+<head>
+  <title>My First Website</title>
+  <link rel="stylesheet" href="style.css">
+</head>
